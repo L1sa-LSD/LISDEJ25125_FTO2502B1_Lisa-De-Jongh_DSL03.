@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DJS02 Web Component Podcast Preview
 
 This project is a **modular Vanilla JavaScript application** that uses a custom **Web Component** to render podcast cards. It embraces modern web standards such as **Shadow DOM**, **custom elements**, and **event-driven UI** design.
@@ -77,3 +78,6 @@ The `createGrid` factory is responsible for rendering a list of podcast cards in
 2. Open index.html in your browser.
 3. Browse the podcast cards and click one to open details.
 4. Close the modal to return to the list.
+=======
+# LISDEJ25125_FTO2502B1_Lisa-De-Jongh_DSL03
+>>>>>>> 0e30d6107c2cf7692bb7a85baf07a7b330272377
