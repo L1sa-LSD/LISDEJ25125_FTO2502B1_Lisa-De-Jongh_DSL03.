@@ -1,0 +1,11 @@
+{
+  "name": "djs03",
+  "version": "1.0.0",
+  "description": "This project is a **modular Vanilla JavaScript application** that uses a custom **Web Component** to render podcast cards. It embraces modern web standards such as **Shadow DOM**, **custom elements**, and **event-driven UI** design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
